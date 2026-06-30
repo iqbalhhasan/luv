@@ -1,0 +1,17 @@
+{
+  "name": "Our Romantic Date",
+  "short_name": "Our Date",
+  "description": "A romantic, interactive date invitation.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8f5",
+  "theme_color": "#b83268",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
